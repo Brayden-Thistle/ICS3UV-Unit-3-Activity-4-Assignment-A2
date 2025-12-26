@@ -14,4 +14,4 @@ if (weight >= 77 && weight <= 105) {
   console.log("You cannot enter the contest.");
 }
 
-console.log("\nDone.")
+console.log("\nDone.");
